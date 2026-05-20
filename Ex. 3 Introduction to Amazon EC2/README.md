@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: JUDE TARUN
+* **Register Number**: 212224040144
+* **Date of Submission**: 20/5/2026
 
 ---
 
@@ -96,13 +96,11 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ## Workflow (Student Explanation)
 
-(Write the steps you followed in your own words)
-
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1. The EC2 Dashboard was accessed through the AWS Management Console to explore the Amazon EBS volume types.
+2. A new EBS volume was created by selecting the volume type, size, and the same Availability Zone as the EC2 instance.
+3. The created EBS volume was attached to the running EC2 instance as an additional block device.
+4. The attached volume was formatted using the ext4 file system and mounted to a directory in the EC2 instance.
+5. Sample data was stored in the mounted volume, and after rebooting the instance, data persistence was verified successfully.
 
 ---
 
@@ -110,19 +108,21 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-(Insert Screenshot Here)
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/502d68ca-2b8c-44c7-ac4c-a6d92c785331" />
+
 
 ---
 
 ### Screenshot 2: SSH Connection to Instance
 
-(Insert Screenshot Here)
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/ae4d8458-ee4b-4f2a-b2fa-319ca9a26d41" />
+
+
 
 ---
 
 ### Screenshot 3: Instance Monitoring / Status
-
-(Insert Screenshot Here)
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/98b2226e-7af2-4803-bbc1-55168d6f8679" />
 
 ---
 
