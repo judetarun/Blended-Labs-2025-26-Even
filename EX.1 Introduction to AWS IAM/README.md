@@ -70,7 +70,7 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** AHAMED JASEER SHA E 
-**Register Number:** 212224040015
+**Name:** JUDE TARUN 
+**Register Number:** 212224040144
 **Course:** Introduction to Cloud Computing  
 
